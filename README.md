@@ -2,4 +2,4 @@
 
 Due Date: 16/04/2024
 Open RecipeApp_Part1
-Click on RecipeApp.sln to run the app on Visual Studio 2022
+
