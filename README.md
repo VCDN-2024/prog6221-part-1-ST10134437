@@ -3,7 +3,7 @@ RecipeApp
 In short,this Recipe App allows users to input the name,quantity and unit of measurement of ingredients they would like to use. It asks users how many steps the recipe needs as well as displays everything in an organised recipe list which also scales it to the user's liking of either 0.5, 2 or 3.
 
 In order to access the Recipe App do the following:
-Proceed to the "RecipeApp" folder which will contain the important classes for this project:
+Proceed to the "RecipeApp_Part1" folder, then "RecipeApp" which will contain the important classes for this project:
 - Ingredient.cs
 - Program.cs
 - Recipe.cs
