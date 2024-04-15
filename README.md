@@ -9,7 +9,7 @@ Proceed to the "RecipeApp_Part1" folder, then "RecipeApp" which will contain the
 - Recipe.cs
 - Step.cs
 
-Under the tag "Part1", I have included a zipped source code file of the recipe app that you can access. You can run the app under the Recipe.sln file through Visual Studio 2022.
+Under the tag "Part1", I have included a zipped source code file of the recipe app that you can access. You can run the app under the Recipe.sln file through Visual Studio 2022. I also have included a screenshot of the recipe app running. 
 
 
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/gkmpH21R)
